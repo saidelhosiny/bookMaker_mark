@@ -1,0 +1,68 @@
+
+
+
+header .container
+{
+    color: #AAA;
+    padding: 20px;
+    border-bottom: 1px solid #999;
+    font-size: 25px;
+    width: 80%;
+    margin: 15px auto;
+}
+
+
+footer .container
+{
+    color: #AAA;
+    width: 80%;
+    padding: 20px;
+    margin: 15px auto;
+    font-weight: bold;
+    border-top: 1px solid #999;
+    font-size: 14px;
+}
+.well
+{
+    background-color: #EEE;
+    width: 76%;
+    margin-top: 30px;
+
+}
+.well2
+{
+    width: 76%;    
+    margin-top: 30px;
+
+}
+.colum h2
+{
+    margin-bottom: 30px;
+}
+.colum p
+{
+    font-weight: bold;
+    color: #333;
+    margin: 10px;
+}
+.colum input
+{
+   
+   
+    font-size: 15px;
+    max-height: 2em;
+        
+}
+.inputss
+{
+       background-color: #ffb2b2;
+       color: #6d0000;
+       border: 1px solid #6d0000;
+       display: block;
+       font-size: 18px;
+       border-radius: 5px;
+       padding: 5px;
+       margin-bottom: 10px;
+      opacity: 0;
+   
+}
